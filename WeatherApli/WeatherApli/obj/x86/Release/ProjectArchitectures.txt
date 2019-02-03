@@ -1,0 +1,1 @@
+D:\Kaisya2\UWP\weather\WeatherApli\WeatherApli\WeatherApli.csproj;x86
